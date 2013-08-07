@@ -3,7 +3,7 @@
 This is a joke, don't use this for real.
 
 ```
-npm install browserify 2>& | npm-progress-bar
+npm install browserify 2>&1 | npm-progress-bar
 ```
 
 ## Installation
