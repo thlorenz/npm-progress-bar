@@ -2,19 +2,13 @@
 
 This is a joke, don't use this for real.
 
-```js
-// TODO
+```
+npm install browserify 2>& | npm-progress-bar
 ```
 
-## Status
-
-Nix, Nada, Nichevo, Nothing --> go away!
 ## Installation
 
-    npm install npm-progress-bar
-
-## API
-
+    npm install -g thlorenz/npm-progress-bar
 
 ## License
 
